@@ -39,7 +39,7 @@ accessModel:
 image: https://www.bikemap.net/website-assets/icons/apple-touch-icon-180x180.png
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-10-06'
 tags:
 - Company
 - Cycling
@@ -56,6 +56,8 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- url: https://blog.bikemap.net/feed/
+  type: BlogRSS
 - type: DomainSecurity
   url: security/bikemap-domain-security.yml
 - type: Website
